@@ -1,0 +1,8 @@
+{
+    "code": 10000,
+    "data":[
+        {"Frage":"Wer ist dein Lieblingssänger?","Antwort":"Kim Sung Kyu"},
+        {"Frage":"Was ist dein Lieblingsfarbe?","Antwort":"Lila"}       
+    ],
+    "message":"shine"
+}
